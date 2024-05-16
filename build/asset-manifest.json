@@ -1,24 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.ae0fbeca.css",
-    "main.js": "/static/js/main.f6d287f1.js",
-    "static/js/787.fcea0ce9.chunk.js": "/static/js/787.fcea0ce9.chunk.js",
+    "main.css": "/static/css/main.08b933ed.css",
+    "main.js": "/static/js/main.d586bcb2.js",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
     "static/media/jungle1.png": "/static/media/jungle1.5ec83d96505269c854f3.png",
     "static/media/background.png": "/static/media/background.f8e0a3e86fb4252623af.png",
     "static/media/jungle3.png": "/static/media/jungle3.5350abbda455914478ee.png",
     "static/media/mountains.png": "/static/media/mountains.af6b8801f09352cf3f76.png",
     "static/media/man_on_mountain.png": "/static/media/man_on_mountain.41b59d37a39bb0b35f75.png",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
     "static/media/jungle4.png": "/static/media/jungle4.80488612344ed2683ee6.png",
     "static/media/jungle2.png": "/static/media/jungle2.b3f7031947988987d357.png",
     "static/media/logo_land.png": "/static/media/logo_land.38bc453f18c7f64bebdc.png",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
     "static/media/jungle5.png": "/static/media/jungle5.6f841a2d5b2b021093df.png",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
     "index.html": "/index.html",
-    "main.ae0fbeca.css.map": "/static/css/main.ae0fbeca.css.map",
-    "main.f6d287f1.js.map": "/static/js/main.f6d287f1.js.map",
-    "787.fcea0ce9.chunk.js.map": "/static/js/787.fcea0ce9.chunk.js.map"
+    "main.08b933ed.css.map": "/static/css/main.08b933ed.css.map",
+    "main.d586bcb2.js.map": "/static/js/main.d586bcb2.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae0fbeca.css",
-    "static/js/main.f6d287f1.js"
+    "static/css/main.08b933ed.css",
+    "static/js/main.d586bcb2.js"
   ]
 }
